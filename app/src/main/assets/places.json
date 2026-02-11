@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "biblioteca central",
+    "type": "biblioteca",
+    "description": "zona silenciosa, wifi, y mesas grandes",
+    "lat": 40.416775,
+    "lng": -3.703790,
+    "isFavorite": false
+  },
+  {
+    "id": 2,
+    "name": "gimnasio local",
+    "type": "gimnasio",
+    "description": "pesas, cardio, y clases por la tarde",
+    "lat": 40.418000,
+    "lng": -3.700000,
+    "isFavorite": false
+  },
+  {
+    "id": 3,
+    "name": "parque del rio",
+    "type": "parque",
+    "description": "paseo con sombra y zona para sentarse",
+    "lat": 40.415000,
+    "lng": -3.707000,
+    "isFavorite": true
+  }
+]

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoFeedFinal</string>
+
+    <!-- google maps -->
+    <string name="google_maps_key">AIzaSyBvT8-uc5NBN4sJU2tV1OBCcB7vahADWQA</string>
+
+    <!-- accesibilidad -->
+    <string name="cd_place_icon">place icon</string>
+    <string name="cd_favorite_icon">favorite</string>
+    <string name="label_only_favorites">only favorites</string>
+
+    <!-- mock data (por si algun dia los vuelves a usar) -->
+    <string name="place_library_name">central library</string>
+    <string name="place_library_type">library</string>
+    <string name="place_library_desc">quiet area, wifi, and big tables</string>
+
+    <string name="place_gym_name">local gym</string>
+    <string name="place_gym_type">gym</string>
+    <string name="place_gym_desc">weights, cardio, and afternoon classes</string>
+
+    <string name="place_park_name">river park</string>
+    <string name="place_park_type">park</string>
+    <string name="place_park_desc">walk path with shade and benches</string>
+
+    <!-- detalle -->
+    <string name="btn_favorite">mark favorite</string>
+    <string name="btn_unfavorite">unmark favorite</string>
+    <string name="btn_view_map">view on map</string>
+
+    <string name="detail_not_found_title">place not found</string>
+    <string name="detail_not_found_desc">no data for this id</string>
+
+    <!-- mapa -->
+    <string name="map_not_found_title">map not available</string>
+    <string name="map_not_found_desc">no coordinates for this place</string>
+
+    <!-- recordatorio -->
+    <string name="btn_schedule_reminder">schedule reminder</string>
+    <string name="notif_title">reminder</string>
+    <string name="notif_text">check your favorite places today</string>
+
+    <string name="last_update">last update: %1$s</string>
+    <string name="last_update_placeholder">last update: ...</string>
+
+    <string name="toast_reminder_scheduled">reminder scheduled</string>
+    <string name="toast_no_notif_permission">no notification permission</string>
+</resources>

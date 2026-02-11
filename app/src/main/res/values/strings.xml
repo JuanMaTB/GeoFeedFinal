@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">GeoFeedFinal</string>
+
+    <!-- google maps -->
+    <string name="google_maps_key">AIzaSyBvT8-uc5NBN4sJU2tV1OBCcB7vahADWQA</string>
+
+    <!-- accesibilidad -->
+    <string name="cd_place_icon">place icon</string>
+    <string name="cd_favorite_icon">favorite</string>
+    <string name="label_only_favorites">solo favoritos</string>
+
+
+    <!-- mock data -->
+    <string name="place_library_name">biblioteca central</string>
+    <string name="place_library_type">biblioteca</string>
+    <string name="place_library_desc">zona silenciosa, wifi, y mesas grandes</string>
+
+    <string name="place_gym_name">gimnasio local</string>
+    <string name="place_gym_type">gimnasio</string>
+    <string name="place_gym_desc">pesas, cardio, y clases por la tarde</string>
+
+    <string name="place_park_name">parque del rio</string>
+    <string name="place_park_type">parque</string>
+    <string name="place_park_desc">paseo con sombra y zona para sentarse</string>
+
+    <!-- detalle -->
+    <string name="btn_favorite">marcar favorito</string>
+    <string name="btn_unfavorite">desmarcar favorito</string>
+    <string name="btn_view_map">ver en mapa</string>
+
+    <string name="detail_not_found_title">lugar no encontrado</string>
+    <string name="detail_not_found_desc">no hay datos para este id</string>
+
+    <!-- mapa -->
+    <string name="map_not_found_title">mapa no disponible</string>
+    <string name="map_not_found_desc">no hay coordenadas para este lugar</string>
+    <!-- recordatorio -->
+    <string name="btn_schedule_reminder">programar recordatorio</string>
+    <string name="notif_title">recordatorio</string>
+    <string name="notif_text">revisa tus lugares favoritos hoy</string>
+
+    <string name="last_update">ultima actualizacion: %1$s</string>
+    <string name="last_update_placeholder">ultima actualizacion: ...</string>
+
+    <string name="toast_reminder_scheduled">recordatorio programado</string>
+    <string name="toast_no_notif_permission">sin permiso de notificaciones</string>
+
+
+</resources>
