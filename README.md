@@ -392,7 +392,7 @@ Antes de ejecutar la aplicación es necesario tener instalado:
 ## 📥 Clonar el Proyecto
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/JuanMaTB/GeoFeedFinal
 ```
 O abrir directamente la carpeta en Android Studio:
 ```
